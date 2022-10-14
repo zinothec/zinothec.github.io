@@ -1,1 +1,0 @@
-# znthec.github.io
