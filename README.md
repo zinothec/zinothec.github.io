@@ -12,7 +12,7 @@
   </a>
 </p>
 
-> here where you can find codes or scripts that we code it or edit on it for free .
+> Hello there, here you will find blogger scripts and plugins that we offer and modify and are open source and free .
 
 ## Author
 
